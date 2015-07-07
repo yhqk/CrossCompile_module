@@ -1,0 +1,28 @@
+# Temp files
+Makefile~
+*.c~
+*.mod.c
+.tmp*
+*.cmd
+modules.order
+Module.symvers
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+    Status API Training Shop Blog About Help 
+
+    © 2015 GitHub, Inc. Terms Privacy Security Contact 
